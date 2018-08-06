@@ -1,0 +1,3 @@
+This tool will remotely monitor a supermicro server and change the fan speed dynamically.
+There's no support for anything but a linear curve, and nothing to prevent hunting.
+Configuration is done in the sourcecode directly -- good luck.
